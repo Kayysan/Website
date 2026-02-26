@@ -1,2 +1,2 @@
 # Website
-My simmple intro website
+My simple intro website
